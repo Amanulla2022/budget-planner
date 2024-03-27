@@ -26,4 +26,8 @@
    - Expenses can be edited or deleted by clicking on the respective icons.
    - Expenses can be sorted by price by clicking on the "Sort By Price" button.
 
+#### Screen Shots
+
+ <img src="src/screenshots/1.png" alt="Screenshot 1" width="400"> <img src="src/screenshots/2.png" alt="Screenshot 2" width="400"><img src="src/screenshots/3.png" alt="Screenshot 3" width="400">
+ <img src="src/screenshots/4.png" alt="Screenshot 4" width="400"> <img src="src/screenshots/5.png" alt="Screenshot 5" width="400"><img src="src/screenshots/6.png" alt="Screenshot 6" width="400">
 
